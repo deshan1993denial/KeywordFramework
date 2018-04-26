@@ -1,0 +1,28 @@
+INFO    2018-04-26 17:29:44,064 [main] com.qapps.common.admin.common.DataReader  - ReadExcel Reached2..
+INFO    2018-04-26 17:29:44,101 [main] com.qapps.common.admin.common.DataReader  - Propertyfile Reached2..
+INFO    2018-04-26 17:29:44,134 [main] com.qapps.common.admin.common.ReadExcel  - Inside Excel Reading >>>>>>>
+INFO    2018-04-26 17:29:44,135 [main] com.qapps.common.admin.common.ReadExcel  - Inside Excel Reading >>>>>>>LOGIN2.xls
+INFO    2018-04-26 17:29:44,135 [main] com.qapps.common.admin.common.ReadExcel  - 1 >>>>>>>:java.io.FileInputStream@1863d2fe
+INFO    2018-04-26 17:29:44,136 [main] com.qapps.common.admin.common.ReadExcel  - 2 >>>>>>>:.xls
+INFO    2018-04-26 17:29:45,091 [main] com.qapps.common.admin.common.ReadExcel  - 3 >>>>>>>:org.apache.poi.hssf.usermodel.HSSFSheet@4535b6d5
+INFO    2018-04-26 17:29:45,092 [main] com.qapps.common.admin.common.DataReader  - Enter For Reached2..>>>>>>>>>>
+INFO    2018-04-26 17:29:45,093 [main] com.qapps.common.admin.common.DataReader  - Enter if Reached2..>>>>>>>>>>
+INFO    2018-04-26 17:29:50,366 [main] com.qapps.common.admin.common.DataReader  - Enter For Reached2..>>>>>>>>>>
+INFO    2018-04-26 17:29:50,366 [main] com.qapps.common.admin.common.DataReader  - Enter if Reached2..>>>>>>>>>>
+INFO    2018-04-26 17:29:51,891 [main] com.qapps.common.admin.common.DataReader  - Enter For Reached2..>>>>>>>>>>
+INFO    2018-04-26 17:29:51,891 [main] com.qapps.common.admin.common.DataReader  - Enter if Reached2..>>>>>>>>>>
+INFO    2018-04-26 17:29:52,503 [main] com.qapps.common.admin.common.DataReader  - Enter For Reached2..>>>>>>>>>>
+INFO    2018-04-26 17:29:52,504 [main] com.qapps.common.admin.common.DataReader  - Enter if Reached2..>>>>>>>>>>
+INFO    2018-04-26 17:30:00,733 [main] com.qapps.common.admin.common.DataReader  - Enter For Reached2..>>>>>>>>>>
+INFO    2018-04-26 17:30:00,733 [main] com.qapps.common.admin.common.DataReader  - Enter if Reached2..>>>>>>>>>>
+INFO    2018-04-26 17:30:01,381 [main] com.qapps.common.admin.common.DataReader  - Enter For Reached2..>>>>>>>>>>
+INFO    2018-04-26 17:30:01,381 [main] com.qapps.common.admin.common.DataReader  - Enter if Reached2..>>>>>>>>>>
+INFO    2018-04-26 17:30:01,993 [main] com.qapps.common.admin.common.DataReader  - Enter For Reached2..>>>>>>>>>>
+INFO    2018-04-26 17:30:01,993 [main] com.qapps.common.admin.common.DataReader  - Enter if Reached2..>>>>>>>>>>
+INFO    2018-04-26 17:30:12,964 [main] com.qapps.common.admin.common.DataReader  - Enter For Reached2..>>>>>>>>>>
+INFO    2018-04-26 17:30:12,964 [main] com.qapps.common.admin.common.DataReader  - Enter if Reached2..>>>>>>>>>>
+INFO    2018-04-26 17:30:23,385 [main] com.qapps.common.admin.common.ReadExcel  - Inside Excel Reading >>>>>>>
+INFO    2018-04-26 17:30:23,388 [main] com.qapps.common.admin.common.ReadExcel  - Inside Excel Reading >>>>>>>LOGIN2.xls
+INFO    2018-04-26 17:30:23,388 [main] com.qapps.common.admin.common.ReadExcel  - 1 >>>>>>>:java.io.FileInputStream@7ca33c24
+INFO    2018-04-26 17:30:23,388 [main] com.qapps.common.admin.common.ReadExcel  - 2 >>>>>>>:.xls
+INFO    2018-04-26 17:30:23,433 [main] com.qapps.common.admin.common.ReadExcel  - 3 >>>>>>>:org.apache.poi.hssf.usermodel.HSSFSheet@178213b
